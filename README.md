@@ -9,7 +9,7 @@ Ensure you have Python 3.6+ installed on your system. You can download Python [h
 You'll also need to install the following Python libraries if you haven't already:
 
 - gensim
-- sklearn
+- scikit-learn
 - numpy
 - smart_open
 
