@@ -53,3 +53,7 @@ You will be prompted to enter your query. The app will then return predefined do
 Example query: `I love reading novels`
 
 To exit the app, simply hit enter without typing anything when asked for a query.
+
+It might look like this:
+
+![Screenshot_20231211_044115](https://github.com/Konard/vector-search/assets/1431904/3ba7200d-e09a-4e24-89c3-0768edd9cfcc)
